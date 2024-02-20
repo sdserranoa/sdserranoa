@@ -45,6 +45,8 @@
 <!-- https://streak-stats.demolab.com/demo/ -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=sdserranoa&theme=tokyonight-duo&hide_border=true&border_radius=10&hide_current_streak=true)](https://git.io/streak-stats)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/sdserranoa?theme=dark&font=Radio%20Canada&ext=heatmap)
+
 <!--
 **sdserranoa/sdserranoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
